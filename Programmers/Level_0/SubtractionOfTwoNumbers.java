@@ -7,7 +7,8 @@
 * 제한사항
   - -50000 ≤ num1 ≤ 50000
   - -50000 ≤ num2 ≤ 50000
-*/
+ */
+
 class Solution {
     public int solution(int num1, int num2) {
         if ((num1 >= -50000 && num1 <= 50000) && (num2 >= -50000 && num2 <= 50000)) {

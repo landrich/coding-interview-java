@@ -22,7 +22,7 @@ class Solution {
     }
 }
 
-public class iceAmericano{
+public class IceAmericano{
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(Arrays.toString(sol.solution(15000)));

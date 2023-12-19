@@ -18,7 +18,7 @@ class Solution {
     }
 }
 
-public class sharePizza3 {
+public class SharePizza3 {
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(sol.solution(4, 12));

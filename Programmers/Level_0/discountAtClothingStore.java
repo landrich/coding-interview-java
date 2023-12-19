@@ -22,7 +22,7 @@ class Solution {
     }
 }
 
-public class discountAtClothingStore {
+public class DiscountAtClothingStore {
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(sol.solution(580000));

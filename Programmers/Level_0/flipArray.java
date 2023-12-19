@@ -21,7 +21,7 @@ class Solution {
     }
 }
 
-public class flipArray{
+public class FlipArray{
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(Arrays.toString(sol.solution(new int[]{1, 2, 3, 4, 5})));

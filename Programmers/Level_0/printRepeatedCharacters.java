@@ -21,7 +21,7 @@ class Solution {
     }
 }
 
-public class printRepeatedCharacters{
+public class PrintRepeatedCharacters{
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(sol.solution("hello", 3));

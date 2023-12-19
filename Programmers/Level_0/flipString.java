@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-public class flipString{
+public class FlipString{
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(sol.solution("apple"));

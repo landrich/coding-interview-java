@@ -1,5 +1,5 @@
 /*
-[모스부호(1)]
+[모스부호 (1)]
 
 * 문제 설명
   - 머쓱이는 친구에게 모스부호를 이용한 편지를 받았습니다. 그냥은 읽을 수 없어
@@ -65,7 +65,7 @@ class Solution {
     }
 }
 
-public class MorseCode {
+public class MorseCode1 {
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(sol.solution(".... . .-.. .-.. ---"));

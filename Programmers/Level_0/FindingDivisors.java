@@ -17,8 +17,7 @@ class Solution {
     }
 }
 
-public class FindingDivisors
-        {
+public class FindingDivisors {
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(Arrays.toString(sol.solution(24)));

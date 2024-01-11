@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-public class AddOfHiddenNumbers {
+public class AddOfHiddenNumbers1 {
     public static void main(String[] args) {
         Solution sol = new Solution();
         System.out.println(sol.solution("aAb1B2cC34oOp"));

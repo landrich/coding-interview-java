@@ -22,7 +22,7 @@ class Solution {
     }
 }
 
-public class ConditionsForATriangle
+public class ConditionsForATriangle1
         {
     public static void main(String[] args) {
         Solution sol = new Solution();
